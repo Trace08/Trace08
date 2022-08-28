@@ -1,6 +1,6 @@
 ### Hi there 👋,
  My name is Trace and I am a senior of Aerospace Engineering at Iowa State. I am 21 years old and am currently working as an SI leader and a grader.
- I would say however, that my favorite hobbies are videi gaming and reading
+ I would say however, that my hobbies would be video gaming and reading. 
  
  🔭 I’m currently working on ...
 Aero 361
